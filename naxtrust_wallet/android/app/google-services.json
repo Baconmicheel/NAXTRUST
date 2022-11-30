@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "756282867280",
+    "project_id": "naxtrust-wallet",
+    "storage_bucket": "naxtrust-wallet.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:756282867280:android:15c28cca82009ee4459b55",
+        "android_client_info": {
+          "package_name": "com.example.naxtrust_wallet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "756282867280-cdj71l2ce0kk6enthrelgbpannnm0b9u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0mLDanDBpXEzXpMHEgAxhRiZyxEzFv8Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "756282867280-cdj71l2ce0kk6enthrelgbpannnm0b9u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
